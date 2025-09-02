@@ -31,12 +31,5 @@ O sistema coleta as seguintes variáveis ambientais:
 
 Esses dados são enviados para a plataforma **Thingspeak**, onde podem ser visualizados em tempo real.
 
-## Como Rodar o Projeto
 
-### 1. Clonando o Repositório
-
-Clone este repositório para o seu computador:
-
-```bash
-git clone https://github.com/SeuUsuario/SmartLamp.git
 
