@@ -38,4 +38,4 @@ Esses dados são enviados para a plataforma **Thingspeak**, onde podem ser visua
 Clone este repositório para o seu computador:
 
 ```bash
-git clone https://github.com/SeuUsuario/SmartLamp.git
+git clone https://github.com/Ulisseswrk/SmartLamp.git
